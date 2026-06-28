@@ -7,4 +7,5 @@ attivare ambiente
 
 librerie da installare nell'ambiente
 pip install discord.py PyNaCl yt-dlp telethon
+
 pip install python-dotenv
